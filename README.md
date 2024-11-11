@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/sports-web-app.git
+git clone https://github.com/faraaztj7/sports_app.git
 cd sports-web-app
 
 ### Step 2: Build Docker Containers
@@ -52,7 +52,7 @@ The project comes with a pre-configured Docker setup for both frontend and backe
 ### Step 1: Clone the Repository
 Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/sports-web-app.git
+git clone https://github.com/faraaztj7/sports_app.git
 cd sports-web-app
 
 ### Step 2: Setup Backend with Flask
