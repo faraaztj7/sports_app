@@ -44,7 +44,7 @@ The project comes with a pre-configured Docker setup for both frontend and backe
     1. Frontend: Navigate to http://localhost:5173 to view the React frontend.
     2. Backend: The Flask API will be accessible at http://localhost:5000.
 
-4. Access Swagger UI: Swagger UI for testing the backend APIs will be available at http://localhost:5000/swagger.
+4. Access Swagger UI: Swagger UI for testing the backend APIs will be available at http://localhost:5000/.
 5. Stopping Cotainers Command : docker-compose down
 
 ## Local Setup Using XAMPP
